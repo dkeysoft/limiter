@@ -1,0 +1,24 @@
+{
+    "name": "dkeysoft/limiter",
+    "type": "library",
+    "description": "A comprehensive library for creating limit of any action.",
+    "keywords": ["yii2", "limits", "action limits"],
+    "license": "BSD-3-Clause",
+
+    "authors": [
+        {
+            "name": "Dmitry Kukobin",
+            "homepage": "http://github.com/dk-soft"
+        }
+    ],
+
+    "require": {
+        "php": ">=5.5.0"
+    },
+
+    "autoload": {
+        "psr-4": {
+            "dkeysoft\\limiter\\": "src"
+        }
+    }
+}
