@@ -1,8 +1,9 @@
 {
     "name": "dkeysoft/limiter",
-    "type": "library",
+    "type": "yii2-extension",
     "description": "A comprehensive library for creating limit of any action.",
     "keywords": ["yii2", "limits", "action limits"],
+    "minimum-stability":"stable",
     "license": "BSD-3-Clause",
 
     "authors": [
